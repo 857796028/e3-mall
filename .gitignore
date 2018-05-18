@@ -1,5 +1,6 @@
 ##ignore this file##
 /target/ 
+#过滤掉.metadata文件夹里面的内容
 /.metadata/ 
 
 .classpath
